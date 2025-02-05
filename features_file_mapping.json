@@ -1,0 +1,20 @@
+{
+    "User Login Functionality": [
+        "Dotnet4.0/Project.csproj",
+        "Dotnet4.0/Models/User.cs",
+        "Dotnet4.0/Models/LoginForm.cs",
+        "Dotnet4.0/Services/RememberMeService.cs",
+        "Dotnet4.0/Controllers/LoginController.cs",
+        "Dotnet4.0/Controllers/Api/LoginApiController.cs",
+        "Dotnet4.0/Controllers/Api/RememberMeApiController.cs",
+        "Dotnet4.0/Views/Login/Login.cshtml",
+        "Dotnet4.0/Views/Shared/_LoginPartial.cshtml",
+        "Dotnet4.0/Repositories/UserRepository.cs",
+        "Dotnet4.0/Repositories/LoginRepository.cs",
+        "Dotnet4.0/Repositories/RememberMeRepository.cs",
+        "Dotnet4.0/Helpers/ValidationHelper.cs",
+        "Dotnet4.0/Helpers/EncryptionHelper.cs",
+        "Dotnet4.0/Helpers/LoggingHelper.cs",
+        "Dotnet4.0/Helpers/CookieHelper.cs"
+    ]
+}
